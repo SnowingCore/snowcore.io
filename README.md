@@ -29,18 +29,6 @@ Enhance your online privacy with an OpenVPN server on SnowCore.io.
 - **24/7 Uptime with DDoS Protection**: Always online, always secure.
 - **Friendly Customer Support**: We're here to help!
 
-## Getting Started 🚦
-
-[Step-by-step instructions on setting up your hosting environment.]
-
-## Documentation 📚
-
-[Links to detailed documentation and user guides.]
-
-## Contributing 💡
-
-🌟 Contributions are welcome! Please check our [contributing guidelines](LINK_TO_CONTRIBUTING_GUIDELINES).
-
 ## Connect with Us 🤝
 
 📧 For more information, contact us at support@snowcore.io
